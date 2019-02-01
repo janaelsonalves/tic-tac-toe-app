@@ -1,0 +1,15 @@
+.game {
+  display: flex;
+  flex-direction: row;
+  place-content: center center;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+}
